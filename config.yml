@@ -1,0 +1,10 @@
+traiding:
+  traide_type: GRID
+  coin: BTCUSDT
+  api_key: 276b51394cf2668b14fcda6f203124c2a7422411deaceae929c2931bc372a2a3
+  secret_key: ec387853d3f3227dc106d576f0304542493589026a36d7a4dcf109ca0820bcd9
+  leverage: 5
+  stop: 0.0
+  take: 0.0
+  more_stop: 0.03
+  more_take: 0.05
